@@ -17,7 +17,7 @@ The application also provides an option to reset all vote counts.
 2. Open the project folder:
 
    ```powershell
-   cd YOUR-REPOSITORY
+   cd herivired_assignments_1_flask_appl
    ```
 
 3. Create and activate a virtual environment:
